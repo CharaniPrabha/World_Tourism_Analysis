@@ -1,5 +1,5 @@
-# World_Tourism_Analysis
 ---
+
 ```markdown
 # 🌍 World Tourism Analysis – Interactive Dashboard with Chatbot
 
@@ -11,27 +11,24 @@ The application features **secure login/signup**, a **personalized dashboard**, 
 ## 📂 Project Structure
 
 ```
-'''
 
 World\_Tourism\_Analysis/
 ├── app.py                # Main entry point with login/signup and navigation
 ├── pages/
 │   ├── Home.py           # Homepage with tourism overview
-│   ├── Dashboard.py      # Interactive Power BI / data visualization dashboard / Chatbot
+│   ├── Dashboard.py      # Interactive Power BI / data visualization dashboard + Chatbot
 │   ├── Conclusion.py     # Summary and insights page
 ├── users.db              # SQLite database for users and activity logs
 ├── bg.png                # Background image for UI styling
-├── screenshots/
-│   ├── home.png          # Screenshot of Home page
-│   ├── dashboard.png     # Screenshot of Dashboard page
 
+````
 
-'''
 ---
 
 ## 📖 Introduction
 
 This project is designed to help users explore and analyze **global tourism data** through an intuitive dashboard.  
+It enhances user interaction with a **chatbot assistant** that provides answers about the dataset and insights.
 
 ---
 
@@ -65,17 +62,15 @@ This project is designed to help users explore and analyze **global tourism data
 
 ---
 
-
-
 ## 🌐 Deploying the App
 
 You can deploy the app easily on **Streamlit Community Cloud**, **Render**, or **Heroku**:
 
-* For **Streamlit Cloud**:
+### Streamlit Cloud Deployment
 
-  1. Push the repository to GitHub.
-  2. Go to [share.streamlit.io](https://share.streamlit.io/).
-  3. Connect your repo and deploy.
+1. Push the repository to GitHub.
+2. Go to [share.streamlit.io](https://share.streamlit.io/).
+3. Connect your repo and deploy.
 
 ---
 
@@ -97,3 +92,9 @@ You can deploy the app easily on **Streamlit Community Cloud**, **Render**, or *
 
 ---
 
+```
+
+---
+
+Do you also want me to **add badges** (like Python, Streamlit, License) at the top for a more professional GitHub look?
+```
