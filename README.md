@@ -94,7 +94,4 @@ You can deploy the app easily on **Streamlit Community Cloud**, **Render**, or *
 
 ```
 
----
 
-Do you also want me to **add badges** (like Python, Streamlit, License) at the top for a more professional GitHub look?
-```
