@@ -1,6 +1,6 @@
 ---
 
-```markdown
+
 # 🌍 World Tourism Analysis – Interactive Dashboard with Chatbot
 
 An interactive **Streamlit-based tourism analytics platform** that provides insights into world tourism trends.  
