@@ -7,7 +7,7 @@ An interactive **Streamlit-based tourism analytics platform** that provides insi
 The application features **secure login/signup**, a **personalized dashboard**, and an **integrated chatbot** to answer queries about tourism data and the dashboard.
 
 ---
-
+'''
 ## 📂 Project Structure
 
 ```
@@ -25,7 +25,7 @@ World\_Tourism\_Analysis/
 │   ├── dashboard.png     # Screenshot of Dashboard page
 
 ````
-
+'''
 ---
 
 ## 📖 Introduction
@@ -64,17 +64,7 @@ This project is designed to help users explore and analyze **global tourism data
 
 ---
 
-## 📸 Output Screenshots
 
-### 🏠 Home Page
-
-![Home Page](screenshots/home.png)
-
-### 📊 Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
 
 ## 🌐 Deploying the App
 
